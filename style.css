@@ -1,0 +1,23 @@
+title{
+    background:linear-gradient(red,white);
+}
+h1{
+    font-size: 25px;
+    font-style: bold;
+    color:sandybrown;
+    text-decoration: underline;
+}
+h2{
+    font-style: italic;
+    opacity: 85%;
+    text-decoration: underline;
+    text-transform: initial;
+}
+li{
+    text-decoration: underline;
+    font-size: 15px;
+    font: optional;
+}
+body{
+    background-image: linear-gradient(to right,lightblue,orange);
+}
